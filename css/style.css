@@ -214,6 +214,15 @@
 
 /* End Project Area */
 
+.navbar_fixed{
+    background: #34495e;
+    color:white;
+
+}
+.navbar_fixed .navbar-light .navbar-nav .nav-link{
+    color:white
+}
 
 
+ 
 
