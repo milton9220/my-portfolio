@@ -167,6 +167,53 @@
     padding-left: 10rem;
 }
 
+.skill-area{
+    padding: 5% 20%;
+}
+.skill-title{
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 5%;
+    font: normal 600 22px/30px var(--roboto);
+}
+.skill-name{
+    font: normal 600 18px/30px var(--roboto);
+    color:var(--title-color);
+}
+/* Project Area */ 
+
+.site-main .project-area{
+    padding: 4rem 0;
+}
+
+.site-main .project-area .button-group button{
+    background: transparent;
+    border: none;
+    font: normal 500 16px/130px var(--roboto);
+    text-transform: uppercase;
+}
+
+.site-main .project-area .button-group button + button{
+    padding-left: 3rem;
+}
+
+.site-main .project-area .grid .our-project > .title h4{
+    font: normal 700 25px/12px var(--roboto);
+}
+
+.site-main .project-area .grid .our-project .img a:hover img{
+    filter: brightness(1.1) drop-shadow(1px 8px 30px #b1afaf);
+}
+.portfolio-title{
+    display: inline-block;
+    
+}
+.project-title{
+    text-align: center;
+}
+
+/* End Project Area */
+
 
 
 
