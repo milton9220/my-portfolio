@@ -18,7 +18,7 @@
     padding: 1rem 5rem;
 }
 .header-area .main-menu .nav-item .nav-link{
-    font: normal 500 15px/2px 'Roboto', cursive;
+    font: normal 500 15px/2px 'Roboto', sans-serif;
     text-transform: uppercase;
     padding: 1.7rem;
     
@@ -79,7 +79,7 @@
 
 .site-main .about-area .about-title h2 > span{
     display: block;
-    font: normal bold 24px/ 25px 'Roboto', cursive;
+    font: normal bold 24px/ 25px 'Roboto', sans-serif;
     letter-spacing: 10px;
     line-height: 30px;
 }
@@ -156,13 +156,13 @@
 }
 
 .site-main .brand-area .experience-area .years-area .years{
-    font: normal bold 84px/40px 'Roboto', cursive;
+    font: normal bold 84px/40px 'Roboto', sans-serif;
     color: #854fee;
     z-index: 2;
 }
 
 .site-main .brand-area .experience-area .years-area h2 > span{
-    font: normal 600 22px/30px 'Roboto', cursive;
+    font: normal 600 22px/30px 'Roboto', sans-serif;
 }
 
 .site-main .brand-area .experience-area .call-area{
@@ -176,10 +176,10 @@
     display: inline-block;
     text-align: center;
     margin-bottom: 5%;
-    font: normal 600 22px/30px 'Roboto', cursive;
+    font: normal 600 22px/30px 'Roboto', sans-serif;
 }
 .skill-name{
-    font: normal 600 18px/30px 'Roboto', cursive;
+    font: normal 600 18px/30px 'Roboto', sans-serif;
     color:#141313;
 }
 /* Project Area */ 
@@ -191,7 +191,7 @@
 .site-main .project-area .button-group button{
     background: transparent;
     border: none;
-    font: normal 500 16px/130px 'Roboto', cursive;
+    font: normal 500 16px/130px 'Roboto', sans-serif;
     text-transform: uppercase;
 }
 
@@ -200,7 +200,7 @@
 }
 
 .site-main .project-area .grid .our-project > .title h4{
-    font: normal 700 25px/12px 'Roboto', cursive;
+    font: normal 700 25px/12px 'Roboto', sans-serif;
 }
 
 .site-main .project-area .grid .our-project .img a:hover img{
@@ -223,7 +223,7 @@
     padding: 7% 0;
 }
 .project-table td p{
-    font: normal 700 18px/25px 'Roboto', cursive;
+    font: normal 700 18px/25px 'Roboto', sans-serif;
     margin-top: 15px;
     text-transform: capitalize;
     
@@ -231,7 +231,7 @@
 }
 
 .project-table td a{
-    font: normal 500 16px/12px 'Roboto', cursive;
+    font: normal 500 16px/12px 'Roboto', sans-serif;
     border-radius: 15px;
 }
 
@@ -241,7 +241,7 @@ footer.footer-area{
 }
 
 footer.footer-area .social h5{
-    font: normal 500 23px/ 30px 'Roboto', cursive;
+    font: normal 500 23px/ 30px 'Roboto', sans-serif;
 }
 
 footer.footer-area .social a > i{
@@ -314,11 +314,11 @@ footer.footer-area .social a:hover > i{
 }
 p.para{
     color: #777777;
-    font: normal 500 16px/ 25px 'Roboto', cursive;
+    font: normal 500 16px/ 25px 'Roboto', sans-serif;
 }
 
 .font-roboto{
-    font-family: 'Roboto', cursive;
+    font-family: 'Roboto', sans-serif;
 }
 
 button:focus,
@@ -331,7 +331,7 @@ button:hover
 }
 
 .title-h1{
-    font: normal bold 39px/ 40px 'Roboto', cursive;
+    font: normal bold 39px/ 40px 'Roboto', sans-serif;
 }
 
 
