@@ -75,7 +75,7 @@
 
 .site-main .about-area .about-title h2 > span{
     display: block;
-    font: normal bold 24px/ 25px var(--roboto);
+    font: normal bold 24px/ 25px 'Roboto', cursive;
     letter-spacing: 10px;
     line-height: 30px;
 }
@@ -116,7 +116,7 @@
 }
 
 .site-main .brand-area .first-row .col-lg-3 > .single-brand:hover{
-    box-shadow: 0px 10px 30px rgba(57,56,61,0.205));
+    box-shadow: 0px 10px 30px rgba(57,56,61,0.205);
     transform: scale(1.1);
 }
 
