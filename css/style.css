@@ -213,15 +213,26 @@
 }
 
 /* End Project Area */
-
-.navbar_fixed{
-    background: #34495e;
-    color:white;
+.table-class{
+    width: 80%;
+    margin: 0 auto;
+}
+.project-table{
+    padding: 7% 0;
+}
+.project-table td p{
+    font: normal 700 18px/25px var(--roboto);
+    margin-top: 15px;
+    text-transform: capitalize;
+    
 
 }
-.navbar_fixed .navbar-light .navbar-nav .nav-link{
-    color:white
+
+.project-table td a{
+    font: normal 500 16px/12px var(--roboto);
+    border-radius: 15px;
 }
+
 
 
  
