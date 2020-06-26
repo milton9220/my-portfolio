@@ -243,7 +243,7 @@ footer.footer-area .social h5{
 footer.footer-area .social a > i{
     font-size:22px;
     padding: 2rem;
-    color: var(--border-color);
+    color: #201f1f17);
 }
 
 footer.footer-area .social a:hover > i{
@@ -310,7 +310,7 @@ footer.footer-area .social a:hover > i{
 }
 p.para{
     color: #777777;
-    font: normal 500 16px/ 25px var(--roboto);
+    font: normal 500 16px/ 25px 'Roboto', cursive;
 }
 
 .font-roboto{
@@ -327,7 +327,7 @@ button:hover
 }
 
 .title-h1{
-    font: normal bold 39px/ 40px var(--roboto);
+    font: normal bold 39px/ 40px 'Roboto', cursive;
 }
 
 
@@ -337,7 +337,7 @@ button:hover
     top: -1px;
     left: 0; right: 0;
     background: #ffffff;
-    box-shadow: var(--box-shadow);
+    box-shadow: 0px 10px 30px rgba(57,56,61,0.205);
     z-index: 999;
     transition: background 1s ease;
 }
