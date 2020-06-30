@@ -1,5 +1,7 @@
 $(document).ready(function(){
 
+    
+
   var typed = new Typed('#type', {
     strings:[
         "I am Monjur Hasan",

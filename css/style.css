@@ -8,12 +8,13 @@
     padding: 0 2rem 0 5rem;
      font-family: 'Roboto', sans-serif;
     font-size: 24px;
-    background: linear-gradient(90deg,#4458dc 0%,#854fee 100%);;
+    background: linear-gradient(90deg,#4458dc 0%,#854fee 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
 
 }
+
 .header-area .main-menu .navbar{
     padding: 1rem 5rem;
 }
@@ -70,7 +71,7 @@
 }
 .about-image .image{
     width: 100%;
-    height: 555px;
+    height: 590px;
     margin-left: -5%;
 }
 .site-main .about-area{
