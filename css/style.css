@@ -77,6 +77,9 @@
 .site-main .about-area{
     padding: 5rem 0rem;
 }
+.line{
+    line-height: 0.5em;
+}
 
 .site-main .about-area .about-title h2 > span{
     display: block;
@@ -202,6 +205,7 @@
 
 .site-main .project-area .grid .our-project > .title h4{
     font: normal 700 25px/12px 'Roboto', sans-serif;
+    line-height: 1.5em;
 }
 
 .site-main .project-area .grid .our-project .img a:hover img{
